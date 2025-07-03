@@ -21,6 +21,15 @@ mdc: true
 
 ---
 
+# Contents
+
+- Elevator Pitch
+- Git Features
+- GitHub Features
+- Technical Demo
+
+---
+
 ```yaml
 src: ./pages/Rationale.md
 ```
