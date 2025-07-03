@@ -1,0 +1,11 @@
+#+title: Git, or How I Learned to Stop Worrying and Love Version Control
+
+This is a presentation that I wrote to convince people in the program to use git
+wherever possible.
+
+The goal is not to teach how to use git, though there is some of that in here, but
+more to convince the audience that git is worthwhile.
+
+
+
+
