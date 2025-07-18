@@ -33,3 +33,9 @@ mdc: true
 ```yaml
 src: ./pages/Rationale.md
 ```
+
+---
+
+```yaml
+src: ./pages/Github-Features.md
+```

@@ -92,6 +92,7 @@ git commit -m "My first commit!" # tell git to save
 </v-clicks>
 
 ::right::
+
 <SlidevVideo autoplay loop>
 
 <source src="/word-versions.mp4">
