@@ -3,6 +3,9 @@
 theme: default
 # some information about your slides (markdown enabled)
 title: Git
+fonts:
+  sans: Fira Sans
+  serif: Fira Sans
 info: |
   ## Slidev Starter Template
   Presentation slides for developers.
@@ -32,6 +35,12 @@ mdc: true
 
 ```yaml
 src: ./pages/Rationale.md
+```
+
+---
+
+```yaml
+src: ./pages/Git.md
 ```
 
 ---
