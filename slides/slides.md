@@ -24,12 +24,23 @@ mdc: true
 
 ---
 
+```yaml
+routeAlias: prereqs
+```
+
+# Prerequisites
+
+- Basic <Link to="bash" title="Bash/shell"/> knowledge
+- Willingness to learn
+
+---
+
 # Contents
 
 - Elevator Pitch
 - Git Features
 - GitHub Features
-- Technical Demo
+- Contribute to the wiki!
 
 ---
 
@@ -47,4 +58,22 @@ src: ./pages/Git.md
 
 ```yaml
 src: ./pages/Github-Features.md
+```
+
+---
+
+```yaml
+src: ./pages/caveats.md
+```
+
+---
+
+```yaml
+src: ./pages/wiki.md
+```
+
+---
+
+```yaml
+src: ./pages/bash.md
 ```

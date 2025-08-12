@@ -1,6 +1,6 @@
 ---
 layout: image-right
-image: grandma.webp
+image: /grandma.webp
 ---
 
 <div class="center h-full grid place-content-center text-lg">
@@ -218,3 +218,18 @@ Automatic merge failed; fix conflicts and then commit the result.
 <SlidevVideo  autoplay loop width=70%>
 <source src="/resolve-pull-conflict.mp4" type="video/mp4" />
 </SlidevVideo>
+
+---
+
+# Creating a Github personal access token
+
+- Depending on how git is used, you may need to create a github personal access token [See this guide](https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/managing-your-personal-access-tokens)
+- Personal access tokens can be used in place of passwords.
+
+To store the username and password for the computer, run this command:
+
+```bash
+git config --global credential.helper store
+```
+
+Then, then next time git asks for authentication, use the personal access token instead of a password.

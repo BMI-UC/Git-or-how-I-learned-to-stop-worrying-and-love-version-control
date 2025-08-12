@@ -1,6 +1,6 @@
 ```yaml
 layout: image-right
-image: gitxkcd.png
+image: /gitxkcd.png
 ```
 
 <div class="center h-full grid place-content-center text-lg">
@@ -188,6 +188,7 @@ layout: two-cols
 - The price we pay for branches
 - When branches have commits that point to the same files
   as commits on the main branch during a merge, then a merge conflict can occur
+- Branches actually prevent another type of merge conflict covered later
 
 </v-clicks>
 
