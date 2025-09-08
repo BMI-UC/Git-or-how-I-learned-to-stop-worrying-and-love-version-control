@@ -132,6 +132,13 @@ src: ./pages/wiki.md
 
 ---
 
+# Helpful Links
+
+- [Software Carpentry tutorial](https://swcarpentry.github.io/git-novice/)
+- [Github pull request tutorial](https://docs.github.com/en/get-started/start-your-journey/hello-world)
+
+---
+
 ```yaml
 src: ./pages/bash.md
 ```

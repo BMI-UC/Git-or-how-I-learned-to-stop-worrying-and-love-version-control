@@ -69,6 +69,10 @@ We've all been here, projects grow in complexity very fast. Even a simple projec
 
 ---
 
+<img src="/phdproblems.png" class="m-auto" width=43% />
+
+---
+
 ```yaml
 layout: two-cols-header
 ```
