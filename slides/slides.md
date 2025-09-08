@@ -82,7 +82,7 @@ GIT - the stupid content tracker
 layout: two-cols
 ```
 
-# Linus was Sick of it
+# Linus Was Sick of It
 
 <v-clicks>
 
