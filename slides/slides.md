@@ -7,10 +7,7 @@ fonts:
   sans: Fira Sans
   serif: Fira Sans
 info: |
-  ## Slidev Starter Template
-  Presentation slides for developers.
-
-  Learn more at [Sli.dev](https://sli.dev)
+  "Git: Or, How I lerned to stop worrying and love version control"
 class: text-center
 drawings:
   persist: false
@@ -122,6 +119,12 @@ src: ./pages/Github-Features.md
 
 ```yaml
 src: ./pages/caveats.md
+```
+
+---
+
+```yaml
+src: ./pages/git-helper.md
 ```
 
 ---

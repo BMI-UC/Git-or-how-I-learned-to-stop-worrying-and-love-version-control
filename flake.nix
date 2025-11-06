@@ -26,6 +26,13 @@
         devShells.default = pkgs.mkShell{
           packages = [ pkgs.bun ];
         };
+
+        packages.default = with pkgs; writeShellScriptBin "bundev" ''
+        #!/usr/bin/env bash
+        cd slides
+        ${pkgs.bun}/bin/bun dev
+        '';
+
       };
       flake = {
         # The usual flake attributes can be defined here, including system-
